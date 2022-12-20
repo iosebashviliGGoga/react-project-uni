@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6132c1dc.css",
+    "main.js": "/static/js/main.d2ec8e47.js",
+    "static/media/smallCover.png": "/static/media/smallCover.d3ba8c40e2f19d457157.png",
+    "static/media/bpg_mrgvlovani_caps_2010.ttf": "/static/media/bpg_mrgvlovani_caps_2010.e513097f7966a38f9d9f.ttf",
+    "static/media/bpg_mrgvlovani_2009.ttf": "/static/media/bpg_mrgvlovani_2009.d8afe6e5759301aac0c1.ttf",
+    "index.html": "/index.html",
+    "main.6132c1dc.css.map": "/static/css/main.6132c1dc.css.map",
+    "main.d2ec8e47.js.map": "/static/js/main.d2ec8e47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6132c1dc.css",
+    "static/js/main.d2ec8e47.js"
+  ]
+}
